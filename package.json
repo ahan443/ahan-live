@@ -1,0 +1,10 @@
+{
+  "name": "ahanhub",
+  "version": "1.0.0",
+  "description": "An all-in-one entertainment platform to listen to Quran recitations, watch anime, and tune into online FM radio.",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^6.24.0"
+  }
+}
